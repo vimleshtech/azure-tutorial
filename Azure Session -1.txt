@@ -1,0 +1,78 @@
+Component (services and featues within Azure plateform)
+WebServer 
+DB
+Storage
+Load Balancer
+Services
+
+Powershell
+VM
+
+=================
+Component:
+
+	Appliation Service
+	-----------------------	
+		-web App(web site)/front end
+			:*App Name (this must be unique)
+				-azure951
+				-azure951.azurewebsites.net
+			:Subscription:
+				-VSCode 
+			:*Resouce Group : is collection resouces which will be in same lifecycle and pipleline 
+				-azuretraing
+
+			:*OS
+				-windows  **
+				-Linux		
+
+		DB Instance 
+		-----------------------
+		-Database(RDBMS-relational database management system):
+			-MS SQL Server
+			-My SQL Server 
+
+
+			*dbnae: azure951
+			*server name:  azure951
+			*username:  azure951
+			*password: Test@123
+				 
+			
+			*Elastic Pool: is known as resources locater and provider. So applicaiton can be run in same/allocated budget 
+
+
+					 
+
+
+
+		-Blobs (file system : audio, image etc.)
+Terms
+Costing
+
+
+
+
+
+
+www.abc.com
+===================
+->domain  : www.https:///abc.com
+				Hosting Server/Space:
+					192.168.52.111
+www: world wide web
+https: protocal (request/response)
+abc : application's name 
+.com: domain 
+
+
+*web browser(cleint)		: ID, Chrome etc.
+*web server (or app server)	: IIS, Apache Tomcat, GlassFish 
+
+
+
+
+
+
+
+
